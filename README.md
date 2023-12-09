@@ -1,4 +1,4 @@
 # Project
-This is my First Git Repository.
+This is the php Login and Registration Authentication
 <br>
 Author - Bijay Kumar Shrestha
